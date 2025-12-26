@@ -13,6 +13,8 @@ dist-ssr
 *.local
 
 old
+mongodb-data/*
+mongodb-socket/*
 
 # Editor directories and files
 .vscode/*
